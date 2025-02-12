@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cost- analysis</title>
+</head>
+<body>
+    <h1>CCPM & Risk Analysis for Project Delays</h1>
+    <p>This project uses SQL and Power BI to identify project bottlenecks and risk mitigation strategies.</p>
+
+    <h2>📂 Files</h2>
+    <ul>
+        <li><a href="https://github.com/yourusername/Portfolio/blob/main/ccpm-risk.sql">SQL Queries</a></li>
+        <li><a href="https://github.com/yourusername/Portfolio/blob/main/ccpm-risk-dashboard.png">Power BI Dashboard</a></li>
+    </ul>
+
+    <h2>📊 Key Insights</h2>
+    <p>1. 50% of projects delayed due to missing data.<br>
+       2. Risk probability increased by 20% when milestone tracking was not updated.</p>
+
+    <a href="../index.html">🔙 Back to Portfolio</a>
+</body>
+</html>
